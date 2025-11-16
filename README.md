@@ -1,12 +1,11 @@
-# airline-delays-eda
-Airline Delays Exploratory Data Analysis
+# Airline Delays Exploratory Data Analysis
 
 This project explores and models airline delay data using Exploratory Data Analysis (EDA), data preprocessing, and a linear regression model.  
 The goal is to predict **average arrival delay minutes per flight** based on features such as carrier, airport, year, month, and flight counts.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset comes from the Bureau of Transportation Statistics (BTS) airline delay cause reports.  
 It includes fields such as:
@@ -29,7 +28,7 @@ This gives a more meaningful outcome: **minutes of delay per flight**.
 
 ---
 
-## 🛠 Methods
+## Methods
 
 1. **Exploratory Data Analysis (EDA)**
    - Data summary, missing values, duplicates
